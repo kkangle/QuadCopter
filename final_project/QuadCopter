@@ -1,0 +1,4 @@
+QuadCopter (.clk(clk),.rst_n(rst_n),.SS_n(SS_n),.SCLK(SCLK),.MOSI(MOSI),.MISO(MISO),
+                .INT(INT),.RX(RX),.TX(TX),.LED(),.FRNT(frnt_ESC),.BCK(back_ESC),
+				.LFT(left_ESC),.RGHT(rght_ESC),.SS_A2D_n(SS_A2D_n),.SCLK_A2D(SCLK_A2D),
+				.MOSI_A2D(MOSI_A2D),.MISO_A2D(MISO_A2D));
